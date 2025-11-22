@@ -421,35 +421,35 @@ Steps (Cxxdroid example):
    **1)MAIN MENU**
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC1.jpeg" width="500">
 </p>
 
 **2)ADDING AN EMPLOYEE**
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC2.jpeg" width="500">
 </p>
 
 **3)DISPLAYING EMPLOYEE LIST**
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC3.jpeg" width="500">
 </p>
 
 **4)APPLYING LEAVE**
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC4.jpeg" width="500">
 </p>
 
 **5)CHECKING BALANCE**
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC5.jpeg" width="500">
 </p>
 
 **6)EXIT SCREEN**
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/praharshavasili-1681/course_project_1/blob/54282a1348699c7f88d8fe3b56ec9abd6b89ccc0/SC6.jpeg" width="500">
 </p>
 
 
